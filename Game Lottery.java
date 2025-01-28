@@ -1,3 +1,7 @@
+// Reid Morin
+// CS 240 
+// 1-28-25
+// Generates a lottery number, has the user input a guess, and then checks to see if the guess contains any matches to the lottery number
 public class Exercise03_15 {
   public static void main(String[] args) {
       // Generate a lottery num
