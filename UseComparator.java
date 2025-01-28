@@ -1,3 +1,7 @@
+// Reid Morin
+// CS 240 
+// 1-28-25
+// Has the user input 6 strings and sorts them by their last char
 import java.util.Comparator;
 import java.util.Scanner;
 public class Exercise20_21 {
